@@ -1,0 +1,25 @@
+#1st{
+    padding: 30px;
+    text-align: center;
+}
+#2nd{
+    padding: 30px;
+    text-align: center;
+}
+#map{
+    width: 100%;
+    padding: 30px;
+}
+a{
+    color: black;
+    display: inline;
+}
+p{
+    font-size: 30px;
+}
+img{
+    padding: 20px;
+}
+#everything{
+    padding: 50px;
+}
